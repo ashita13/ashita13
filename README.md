@@ -15,3 +15,4 @@ Languages: C++, Python, Java
 Hobby: Ethical Hacking, Photography, Music Producing  
 Email: qhn354@uowmail.edu.au  
 LinkedIn: hiepnguyenquy
+CPTS certified
